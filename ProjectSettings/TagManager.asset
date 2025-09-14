@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - PlayerStats
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Groud
+  - PlayerStats
+  - enermyAttack
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1113170813
+    locked: 0
+  - name: Middleground
+    uniqueID: 2401156589
+    locked: 0
+  - name: Ground
+    uniqueID: 1197047807
+    locked: 0
+  - name: Player
+    uniqueID: 3245540573
+    locked: 0
+  m_RenderingLayers:
+  - Default
